@@ -2,7 +2,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 /**
- * Created by zee on 5/11/15.
+ * Created by Ahmed Saad Ahmed on 5/11/15.
  * Description: draws a cartoon that closes and opens his eyes
  */
 public class SmileyMovingFace extends Applet{
